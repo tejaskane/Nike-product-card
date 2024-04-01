@@ -1,1 +1,1 @@
-# Nike-product-card
+Nike product card is a shoe card which has similar design to the design in E-commerce websites, we van switch between shoe colors, by clicking on the color, once we click on the color the shoe will be changes along with color of card, this is done using add/remove classList in JS, and using transitions and transform in CSS.
